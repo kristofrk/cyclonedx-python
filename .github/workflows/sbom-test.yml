@@ -10,5 +10,5 @@ jobs:
         with:
           dt-url:  "https://dt-api-kkloeckner-llc.staging.cryptosoft.com/api/v1/bom"
           api-key: 'yx2ZOrANGcuYonKkkeXcOQp77xT2XqvA '
-          project-name: "Testproject 2"
+          project-name: "Testproject3"
           project-version: "1.0"
